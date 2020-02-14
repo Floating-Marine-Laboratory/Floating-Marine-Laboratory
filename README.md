@@ -47,9 +47,11 @@ This work is Open Hardware, so we invite anyone to build on top of this design, 
 ### Groups
 
 ### Past Contribution
-* 2009: Cesar Jung-Harada, Royal College of Art, London
+* 2009: Cesar Jung-Harada, [Royal College of Art, London](https://www.rca.ac.uk/)
+* 2009: [Ars Electronica, Golden Nica, Linz, Austria](https://ars.electronica.art/nextidea/en/open-sailing/)
 * 2010: Open_Sailing Collective, Global
-* 2011-2019: Cesar Jung-Harada, Goldsmiths University, London
+* 2011: ["29 chains to the moon" curated by Andrea Grover, Carnegie Mellon University](http://millergallery.cfa.cmu.edu/exhibitions/29chainstothemoon/)
+* 2011-2019: Cesar Jung-Harada, [Goldsmiths University, London](https://www.gold.ac.uk/)
 
 # License
 * Technology: [CERN Open Hardware Licence](https://kt.cern/open)
