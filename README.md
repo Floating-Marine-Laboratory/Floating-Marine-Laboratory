@@ -46,12 +46,12 @@ This work is Open Hardware, so we invite anyone to build on top of this design, 
 
 ### Groups
 
+### Past Contribution
+* 2009: Cesar Jung-Harada, Royal College of Art, London
+* 2010: Open_Sailing Collective, Global
+* 2011-2019: Cesar Jung-Harada, Goldsmiths University, London
+
 # License
-### Technology
-[CERN Open Hardware Licence](https://kt.cern/open)
-
-### Code
-[MIT License](https://opensource.org/licenses/MIT)
-
-### Images, videos, 3D files, 
-[Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/)
+* Technology: [CERN Open Hardware Licence](https://kt.cern/open)
+* Code: [MIT License](https://opensource.org/licenses/MIT)
+* Images, videos, 3D files, [Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/)
