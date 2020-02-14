@@ -4,7 +4,7 @@
 Subtitle: Floating Marine Laboratory for Ocean Research &amp; Development
   
 # Description 
-This architectural project focuses on developing a floating laboratory for research and development to study the ocean and develop sustainable solutions. Originally developed for the Hong Kong context, the design principles aim to be replicable all around the world, adapted for local use, with local materials, construction techniques and water conditions. As of Spring 2020, the project is being run as a master architecture studio at the University of Hong Kong by Cesar Jung-Harada. You can read the brief [here](https://docs.google.com/document/d/1_F7JANGswgWiD_IbHQKolgqkZA33SZAd__AngIsY07o/edit).
+This architectural project focuses on developing a floating laboratory for research and development to study the ocean and develop sustainable solutions. Originally developed for the Hong Kong context, the design principles aim to be replicable all around the world, adapted for local use, with local materials, construction techniques and water conditions. As of Spring 2020, the project is being run as a master architecture studio at the University of Hong Kong by Cesar Jung-Harada. You can read the brief [here](https://docs.google.com/document/d/1_F7JANGswgWiD_IbHQKolgqkZA33SZAd__AngIsY07o/edit). The nice looking landing page is [here](https://floating-marine-laboratory.github.io/Floating-Marine-Laboratory/).
 
 # Table of Contents
 1. [Method]()
