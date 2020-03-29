@@ -16,7 +16,7 @@ Let's assume that the people involved in this project want to (C) develop commer
 Hong Kong is a coastal city in the middle of the world's largest urban area -the Greater Bay- with over 70 million people. Hong Kong is also a biodiversity hotspot that needs to be preserved. HKU has a great ocean science faculty and easy access to the water. 
 How will we design a new type of floating maritime laboratory that is safe, affordable, and environmentally friendly?
 
-You can read the brief [here](https://docs.google.com/document/d/1_F7JANGswgWiD_IbHQKolgqkZA33SZAd__AngIsY07o/edit). The nice looking landing page is [here](https://floating-marine-laboratory.github.io/Floating-Marine-Laboratory/).
+You can read the brief [here](https://docs.google.com/document/d/1_F7JANGswgWiD_IbHQKolgqkZA33SZAd__AngIsY07o/edit). The nice looking landing page is [here](https://floating-marine-laboratory.github.io/Floating-Marine-Laboratory/). The Wiki with all the background research and process is [here](https://github.com/Floating-Marine-Laboratory/Floating-Marine-Laboratory/wiki).
 
 ## Course Objectives 
 Pt 1: Research & Design
@@ -31,13 +31,18 @@ Depending on the design, we will build at scale one design and test essential fu
 As much as possible we will use measurable criteria from the industry, and frequently assess presentations and works. Students will be guided and encouraged to reach out of the department on the campus to collaborate, and reach out of the campus to experts. As an architect, creating for extreme environments and users is a powerful way to foray a career in cutting edge innovation and gain confidence dealing with interdisciplinary constraints. 
 
 
-# Table of Contents and quick access to some of the wiki key elements
-1. [Methodology](https://github.com/Floating-Marine-Laboratory/Floating-Marine-Laboratory/wiki/Methodology)
-2. [Background Research](https://github.com/Floating-Marine-Laboratory/Floating-Marine-Laboratory/wiki/Background-Research)
-3. [Initial Designs (individuals)](https://github.com/Floating-Marine-Laboratory/Floating-Marine-Laboratory/wiki/Initial-Designs)
-4. Models (by group)
-5. Prototype (all)
-6. Conclusions
+# Table of Contents and Quick Links
+1. [Landing Page](https://floating-marine-laboratory.github.io/Floating-Marine-Laboratory/)
+2. [Brief and timeline](https://docs.google.com/document/d/1_F7JANGswgWiD_IbHQKolgqkZA33SZAd__AngIsY07o/edit)
+3. [Wiki](https://github.com/Floating-Marine-Laboratory/Floating-Marine-Laboratory/wiki)
+4. [Methodology](https://github.com/Floating-Marine-Laboratory/Floating-Marine-Laboratory/wiki/Methodology)
+5. [Background Research](https://github.com/Floating-Marine-Laboratory/Floating-Marine-Laboratory/wiki/Background-Research)
+6. [Individuals Designs](https://github.com/Floating-Marine-Laboratory/Floating-Marine-Laboratory/wiki/Initial-Designs)
+7. [Group Model](https://github.com/Floating-Marine-Laboratory/Floating-Marine-Laboratory/wiki/Group-Model-for-Design-Research) 
+8. [Construction Planning](https://github.com/Floating-Marine-Laboratory/Floating-Marine-Laboratory/wiki/Construction-Planning)
+8. [Prototype](https://github.com/Floating-Marine-Laboratory/Floating-Marine-Laboratory/wiki/Prototype-Documentation)
+9. [Conclusions](https://github.com/Floating-Marine-Laboratory/Floating-Marine-Laboratory/wiki/Conclusions)
+10. [Further Research](https://github.com/Floating-Marine-Laboratory/Floating-Marine-Laboratory/wiki/Further-Research)
 
 # Installation
 There is currently no installation package, but the intention is to release the designs as version packages, ready to download. 
@@ -68,18 +73,6 @@ This work is Open Hardware, so we invite anyone to build on top of this design, 
 * [Yuen Ka Ho Kelvin](https://github.com/kelvin-yuen)
 * [Zhang Houzhe](https://github.com/Houzhe-Zhang)
 * [Ng Kwok Jing James](https://github.com/James-Ngkj)
-
-
-### Groups
-1. [Urban Waterfront_A](https://github.com/Floating-Marine-Laboratory/Floating-Marine-Laboratory/wiki/Initial-Designs-Urban-Waterfront): [Ng Kwok Jing James](https://github.com/James-Ngkj)
-1. [Urban Waterfront_B](https://github.com/Floating-Marine-Laboratory/Floating-Marine-Laboratory/wiki/Initial-Designs-Urban-Waterfront_B): [Wong Tsz Ching Ceci](https://github.com/ceciw), [Yeung Hin Oswin](https://github.com/OswinYH)
-3. [Coastal Communities](https://github.com/Floating-Marine-Laboratory/Floating-Marine-Laboratory/wiki/Initial-Designs-Coastal-Communities): Gavin Lee, [Tsang Hoi Lam Jessica Mary](https://github.com/jessmarytsang), [Chan Yuet Sum Canossa](https://github.com/canoss)
-4. [Ocean Science](https://github.com/Floating-Marine-Laboratory/Floating-Marine-Laboratory/wiki/Initial-Designs-Ocean-Science): [Sin Chung Kei Nathan](https://github.com/nsck1), [Wu Ho Ting Silver](https://github.com/silverwuht)
-5. [Fishermen, Seafood](https://github.com/Floating-Marine-Laboratory/Floating-Marine-Laboratory/wiki/Initial-Designs-Fisherman,-Seafood): [Sun Zhengyu](https://github.com/zyusun)，[Chan Cheong Kit](https://github.com/cheongkit), [Zhang Houzhe](https://github.com/Houzhe-Zhang)
-6. [NGO, Eco-Activism](https://github.com/Floating-Marine-Laboratory/Floating-Marine-Laboratory/wiki/Initial-Designs-NGO,-Eco-Activism): [Lau Ho Chuen Maxwell](https://github.com/lhcmaxwell), [Lau Ho Chuen Maxwell](https://github.com/lhcmaxwell)
-7. [Tourism](https://github.com/Floating-Marine-Laboratory/Floating-Marine-Laboratory/wiki/Initial-Designs-Tourism): [Kaufmann Maximilian Ferdinand](https://github.com/m-kauf)
-8. [Shipping & Transportation](https://github.com/Floating-Marine-Laboratory/Floating-Marine-Laboratory/wiki/Initial-Design---Shipping-&-Transportation): [Lu Xiner Cena](https://github.com/cenalu)
-
 
 ### Past Contributions
 * 2009: [Cesar Jung-Harada](https://github.com/cesarharada), [Royal College of Art, London](https://www.rca.ac.uk/)
