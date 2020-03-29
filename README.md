@@ -3,10 +3,35 @@
 # Floating Marine Laboratory
 Subtitle: Floating Marine Laboratory for Ocean Research &amp; Development
   
-# Description 
-This architectural project focuses on developing a floating laboratory for research and development to study the ocean and develop sustainable solutions. Originally developed for the Hong Kong context, the design principles aim to be replicable all around the world, adapted for local use, with local materials, construction techniques and water conditions. As of Spring 2020, the project is being run as a master architecture studio at the University of Hong Kong by Cesar Jung-Harada. You can read the brief [here](https://docs.google.com/document/d/1_F7JANGswgWiD_IbHQKolgqkZA33SZAd__AngIsY07o/edit). The nice looking landing page is [here](https://floating-marine-laboratory.github.io/Floating-Marine-Laboratory/).
+# Overview
+We are designing an innovative ocean science and entrepreneurship infrastructures. A floating laboratory for research and development to study the ocean and develop sustainable solutions for Hong Kong waters and the world. 
 
-# Table of Contents
+The ocean is where all life comes from and our future depends on it. The ocean covers more than 70% of our planet’s surface and absorbs most of the heat from the sun, therefore controlling earth’s climate. But our oceans are mostly unexplored while being overfished, polluted with plastic, industrial and agricultural run-offs and radioactive substances. The ocean is suffering a rapid biodiversity decline without much general public awareness and more so lacking significant action to reverse this deadly trend.
+
+* (A) Research vessels tend to be very expensive, unsafe and environmentally damaging. It is a design challenge. 
+* (B) The speed between science and impact is too slow. That is a culture, management and legal challenge. 
+* (C) Current marine business models are unsustainable. That is an economic and environmental challenge. 
+
+Let's assume that the people involved in this project want to (C) develop commercial activities that heal the ocean, and (B) share information freely so that positive change can accelerate and spread. What would this (A) new design of floating research and development infrastructure look like and operate?
+Hong Kong is a coastal city in the middle of the world's largest urban area -the Greater Bay- with over 70 million people. Hong Kong is also a biodiversity hotspot that needs to be preserved. HKU has a great ocean science faculty and easy access to the water. 
+How will we design a new type of floating maritime laboratory that is safe, affordable, and environmentally friendly?
+
+You can read the brief [here](https://docs.google.com/document/d/1_F7JANGswgWiD_IbHQKolgqkZA33SZAd__AngIsY07o/edit). The nice looking landing page is [here](https://floating-marine-laboratory.github.io/Floating-Marine-Laboratory/).
+
+## Course Objectives 
+Pt 1: Research & Design
+We will interview ocean scientists, industrialists, traditional coastal communities to understand their needs and how they envision their future in the “blue economy”. We will document our conversations, and use Open Source collaboration platform (github, wiki) to design together.
+
+Pt 2: Small scale prototype testing
+We will build and test small scale prototypes that we will demonstrate to stakeholders. They evaluate the structure for safety, maneuverability, ease of operations, scalability, maintenance, sustainability and cost.
+
+Pt 3: Full-scale prototype testing
+Depending on the design, we will build at scale one design and test essential functions of the floating laboratory in safe waters.
+
+As much as possible we will use measurable criteria from the industry, and frequently assess presentations and works. Students will be guided and encouraged to reach out of the department on the campus to collaborate, and reach out of the campus to experts. As an architect, creating for extreme environments and users is a powerful way to foray a career in cutting edge innovation and gain confidence dealing with interdisciplinary constraints. 
+
+
+# Table of Contents and quick access to some of the wiki key elements
 1. [Methodology](https://github.com/Floating-Marine-Laboratory/Floating-Marine-Laboratory/wiki/Methodology)
 2. [Background Research](https://github.com/Floating-Marine-Laboratory/Floating-Marine-Laboratory/wiki/Background-Research)
 3. [Initial Designs (individuals)](https://github.com/Floating-Marine-Laboratory/Floating-Marine-Laboratory/wiki/Initial-Designs)
