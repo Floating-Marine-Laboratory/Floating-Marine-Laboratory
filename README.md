@@ -62,7 +62,7 @@ This work is Open Hardware, so we invite anyone to build on top of this design, 
 * [Chan Yuet Sum Canossa](https://github.com/canoss)
 * [Kaufmann Maximilian Ferdinand](https://github.com/m-kauf)
 * [Lau Ho Chuen Maxwell](https://github.com/lhcmaxwell)
-* Lee Gavin Yu Hin
+* [Lee Gavin Yu Hin](https://github.com/orgs/Floating-Marine-Laboratory/people/LeeGavinYuHin)
 * [Lu Xiner Cena](https://github.com/cenalu)
 * [Sin Chung Kei Nathan](https://github.com/nsck1)
 * [Sun Zhengyu](https://github.com/zyusun)
